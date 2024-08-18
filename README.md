@@ -11,6 +11,6 @@ Módulo básico de HTML e CSS - Projeto básico de um site utilizando novas tags
 
 >Figura 1: HTML5 e CSS
 
-![HTML5 e CSS](imagens/Site.png)
+![HTML5 e CSS](images/Site.png)
 
  
